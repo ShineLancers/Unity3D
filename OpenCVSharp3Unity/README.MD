@@ -2,8 +2,6 @@ OpenCVSharp 3 in Unity Example
 ===
 Author: [ShineLancer]
 
-Date: 2016-06-07
-
 ## OpenCVSharp 3
 Wrapper for OpenCV on .NET framework
 
@@ -19,10 +17,3 @@ OpenCVSharp version should be identical to OpenCV version.
 
 ![capture](capture.png "Capture")
 
-## Fix
-For my PC, several reference assemblies need to be copied to Plugins folder:
-
-* PresentationCore.dll
-* UIAutomationProvider.dll
-* UIAutomationTypes.dll
-* WindowsBase.dll
